@@ -46,8 +46,6 @@ Category: Technology
 Price: $39.99
 ```
 
----
-
 ## Project Files
 
 - `DVD.java` - Defines the abstract `DVD` class.
@@ -55,4 +53,4 @@ Price: $39.99
 - `InstructionalDVD.java` - Subclass implementing the interface.
 - `useDVD.java` - Main class to test the implementation.
 
-This README provides a quick overview of the program and can be extended for further customization or additional features.
+---
