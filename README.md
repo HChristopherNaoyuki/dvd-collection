@@ -1,4 +1,4 @@
-# Solution - DVD Details Console Program
+# DVD Details Console Program
 
 This project is a console-based Java application designed to display details of DVDs available for purchase. It demonstrates the use of an abstract class, an interface, inheritance, and encapsulation in Java, following Allman style.
 
@@ -45,6 +45,8 @@ Running Time: 150 mins
 Category: Technology
 Price: $39.99
 ```
+
+---
 
 ## Project Files
 
